@@ -2,11 +2,11 @@
 
 Clone da página inicial do youtube com HTML e CSS
 
-### Preview
+### Preview 👇
 
 <img src="/youtube-clone.png" />
 
-### Tecnologias usadas
+### Tecnologias usadas👇
 
 
 <div style="display: inline_block"><br/>
