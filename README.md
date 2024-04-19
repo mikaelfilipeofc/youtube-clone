@@ -4,6 +4,8 @@ Clone da página inicial do youtube com HTML e CSS
 
 ### Preview 👀
 
+(https://yyoutubeeclone.netlify.app/)
+
 <img src="/youtube-clone.png" />
 
 ### Tecnologias usadas 📚
